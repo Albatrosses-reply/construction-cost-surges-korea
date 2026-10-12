@@ -1,0 +1,22 @@
+# R 4.4 (packages and the versions used to produce the published results)
+dplyr==1.2.0
+tidyr==1.3.2
+purrr==1.2.1
+fixest==0.14.0
+MASS==7.3.65
+sandwich==3.1.1
+lmtest==0.9.40
+MSwM==1.5
+jsonlite==2.0.0
+ggplot2==4.0.2
+scales==1.4.0
+ggrepel==0.9.8
+patchwork==1.3.2
+cowplot==1.2.0
+sf==1.1.0
+ragg==1.5.0
+# Python 3.11 (notebook)
+pandas
+jupyter
+nbconvert
+# LaTeX with TikZ (Figure 1)
